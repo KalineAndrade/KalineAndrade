@@ -22,7 +22,7 @@ E foi com essa motivação que criei este perfil, para desenvolver e registrar m
 
 ---
 
-### 🤖 Linguagem
+### 🤖 Linguagens
 
 <img 
     align="left" 
