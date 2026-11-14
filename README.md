@@ -39,6 +39,6 @@ E foi com essa motivação que criei este perfil, para desenvolver e registrar m
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 
