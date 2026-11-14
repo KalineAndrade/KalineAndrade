@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oii, meu nome é Kaline 🔧
 
 <!--
 **KalineAndrade/KalineAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Tenho 23 anos, curso Mecatrônica Industrial e sou simplesmente apaixonada pelo meu curso. Tenho certeza de que fiz a escolha certa!
+
+A Mecatrônica mescla os conhecimentos de programação, elétrica e mecânica. Acredito que desenvolver cada área é muito importante para aproveitar melhor os estudos. Afinal, é a partir do conjunto de conhecimentos que somos capazes de criar o extraordinário.
+
+E foi com essa motivação que criei este perfil, para desenvolver e registrar meus conhecimentos relacionados à programação.
+
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
