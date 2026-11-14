@@ -20,6 +20,10 @@ A Mecatrônica mescla os conhecimentos de programação, elétrica e mecânica. 
 
 E foi com essa motivação que criei este perfil, para desenvolver e registrar meus conhecimentos relacionados à programação.
 
+---
+
+### 🤖 Linguagem
+
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
